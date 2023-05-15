@@ -232,8 +232,8 @@
         [Description("Membro del Clero")]
         Clero = 71,
 
-        [Description("Beggar")]
-        Begger = 72,
+        [Description("Mendicante")]
+        Mendicante = 72,
 
         [Description("Cuoaio")]
         Cuoaio = 73,
